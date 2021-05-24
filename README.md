@@ -1,6 +1,6 @@
 # freecodecamp-projects-2
 
-JavaScript Algorithms and Data Structures Certification on freecodecamp.org
+JavaScript Algorithms and Data Structures Certification Projects on freecodecamp.org
 
 My first coding projects using JavaScript in order to build the following:
 
